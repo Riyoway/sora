@@ -344,7 +344,7 @@ footer p { margin: 0; max-width: 640px; }
   .location-rail { display: none; }
   .forecast-layout { display: block; }
   .week-card { margin-top: 20px; }
-  .mobile-nav { position: fixed; z-index: 60; display: grid; grid-template-columns: repeat(3, 1fr); left: 50%; bottom: var(--safe-bottom); transform: translateX(-50%); width: min(420px, calc(100vw - 24px)); height: 64px; border-radius: 22px; padding: 6px; }
+  .mobile-nav { position: fixed; z-index: 60; display: grid; grid-template-columns: repeat(4, 1fr); left: 50%; bottom: var(--safe-bottom); transform: translateX(-50%); width: min(440px, calc(100vw - 20px)); height: 64px; border-radius: 22px; padding: 6px; }
   .mobile-nav button { border: 0; background: transparent; color: var(--muted); border-radius: 16px; display: grid; place-items: center; align-content: center; gap: 2px; font-size: 11px; cursor: pointer; }
   .mobile-nav button span { width: 30px; height: 26px; display: grid; place-items: center; border-radius: 10px; }
   .mobile-nav button.is-active { color: var(--text); }
