@@ -7,8 +7,8 @@
   -webkit-font-smoothing: antialiased;
   --safe-top: max(14px, env(safe-area-inset-top));
   --safe-bottom: max(16px, env(safe-area-inset-bottom));
-  --panel: rgba(12, 22, 43, 0.54);
-  --panel-strong: rgba(14, 24, 45, 0.72);
+  --panel: rgba(12, 22, 43, 0.74);
+  --panel-strong: rgba(14, 24, 45, 0.86);
   --panel-border: rgba(255, 255, 255, 0.13);
   --panel-highlight: rgba(255, 255, 255, 0.21);
   --text: #f8fbff;
